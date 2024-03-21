@@ -30,7 +30,7 @@
 }
 
 .botao {
-    background-color: blue;
+    background-color: orange;
     color: var(--branco);
     display: flex;
     justify-content: center;
