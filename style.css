@@ -5,7 +5,7 @@
     --branco: #ffffff;
     --botão-ativo: #a020f0;
     --botão-inativo: #ff00ff;
-    --texto-fundo: #87cefa;
+    --texto-fundo: #0b3853;
     --cor-borda: #000000;
 }
 .conteudo-principal {
@@ -69,6 +69,7 @@ body {
     color: black;
 }
 .abas-textos {
+
     background-color: var(--texto-fundo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
