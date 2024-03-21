@@ -5,7 +5,7 @@
     --botão-ativo: rgb(143, 2, 2);
     --botão-inativo: #ff00ff;
     --texto-fundo: #0b3853;
-    --cor-borda: yellow;
+    --cor-borda: rgb(204, 204, 3);
 }
 
 .conteudo-principal {
